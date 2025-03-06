@@ -10,8 +10,4 @@ Welcome to my GitHub profile. I'm a passionate developer working on various proj
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Isaaczhr&show_icons=true&hide_title=true&count_private=true&hide=prs)
-
-## 📅 Contributions Graph
-
-![Your Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=Isaaczhr)
+![Your GitHub Stats]([https://github-readme-stats.vercel.app/api?username=Isaaczhr&show_icons=true&hide_title=true&count_private=true&hide=prs](https://github-readme-stats.vercel.app/api?username=Isaaczhr&show_icons=true&count_private=true&hide_title=true))
