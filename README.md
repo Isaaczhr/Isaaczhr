@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Isaac! 👋
 
-<!--
-**Isaaczhr/Isaaczhr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile. I'm a passionate developer working on various projects, exploring new technologies, and contributing to open-source.
 
-Here are some ideas to get you started:
+## 🧑‍💻 About Me
+- 🔭 I’m a student in USTC.
+- 🌱 I’m learning computer science and web security.
+- 👯 I’m looking to collaborate on open-source projects.
+- 📫 How to reach me: isaaczhrms@outlook.com.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Isaaczhr&show_icons=true&hide_title=true&count_private=true&hide=prs)
+
+## 📅 Contributions Graph
+
+![Your Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=Isaaczhr)
