@@ -4,7 +4,7 @@ Welcome to my GitHub profile. I'm a passionate developer working on various proj
 
 ## 🧑‍💻 About Me
 - 🔭 I’m a student in USTC.
-- 🌱 I’m learning computer science and web security.
+- 🌱 I’m learning computer science and cyber security.
 - 👯 I’m looking to collaborate on open-source projects.
 - 📫 How to reach me: isaaczhrms@outlook.com.
 
